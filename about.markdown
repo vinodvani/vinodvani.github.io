@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are managing this blog post to upload the message of Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur.
+  And also will be adding life stories of Gaudiya Vaishnavs.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
