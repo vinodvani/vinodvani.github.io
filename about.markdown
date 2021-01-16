@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-We are managing this blog post to upload the message of Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur.
-  And also will be adding life stories of Gaudiya Vaishnavs.
+We are managing this blog post to upload the message of **Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur**.
+  And also will be adding life stories of **Gaudiya Vaishnavs**.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
