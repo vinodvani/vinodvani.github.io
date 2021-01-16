@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 We are managing this blog post to upload the message of **Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur**.
-  And also will be adding life stories of **Gaudiya Vaishnavs**.
+  And also will be adding life stories of **Gaudiya Vaishnavs**. as
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
