@@ -1,8 +1,8 @@
 - name: Home 
-  link: /layouts/index.html 
+  link: index.html 
 - name: Categories
-  link: /layouts/categories.html
+  link: categories.html
 - name: Archive 
-  link: /layouts/archive.html
+  link: archive.html
 - name: Life Stories
-  link: /layouts/life_stories.html
+  link: life_stories.html
