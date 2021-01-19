@@ -3,9 +3,6 @@ layout: post
 title:  "Srila Bhakti Kusum Sraman Goswami Maharaja"
 date:   2021-01-15 22:42:43 -0500
 categories: life_stories
-author: admin
-comments: true
-toc: false
 ---
 
 ## Srila Bhakti Kusum Sraman Goswami Maharaja
