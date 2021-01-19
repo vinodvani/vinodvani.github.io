@@ -1,9 +1,9 @@
 - name: Email
-  link: mailto:smlee.981@gmail.com
+  link: mailto:vinodvani1008@gmail.com
   icon: fas fa-envelope
-- name: Twitter
-  link: https://twitter.com/thecyberian_
-  icon: fab fa-twitter
-- name: GitHub
-  link: https://github.com/nescodey
-  icon: fab fa-github
+#- name: Twitter
+#  link: 
+#  icon: fab fa-twitter
+#- name: GitHub
+#  link: https://github.com/nescodey
+#  icon: fab fa-github
