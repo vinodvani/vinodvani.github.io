@@ -28,15 +28,34 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thecyberian_
 github_username:  nescodey
 
+# Google Analytics
+google_analytics: G-MBHV8Y8SNM
 # Build settings
 theme: jekyll-theme-cadre
 plugins:
    - jekyll-remote-theme
+   - jekyll-feed
+   - jekyll-paginate
+   - jekyll-sitemap
+   - jekyll-seo-tag
+
+include:
+   - _pages
+
+exclude_powered_by: false
 
 remote_theme: slee981/jekyll-theme-cadre
-plugins:
-  - jekyll-feed
 
+# _data/social.yml
+- name: Email
+  link: mailto:smlee.981@gmail.com
+  icon: fas fa-envelope
+- name: Twitter
+  link: https://twitter.com/slee981
+  icon: fab fa-twitter
+- name: GitHub
+  link: https://github.com/slee981
+  icon: fab fa-github
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
