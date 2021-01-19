@@ -46,16 +46,6 @@ exclude_powered_by: false
 
 remote_theme: slee981/jekyll-theme-cadre
 
-# _data/social.yml
-- name: Email
-  link: mailto:smlee.981@gmail.com
-  icon: fas fa-envelope
-- name: Twitter
-  link: https://twitter.com/slee981
-  icon: fab fa-twitter
-- name: GitHub
-  link: https://github.com/slee981
-  icon: fab fa-github
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
