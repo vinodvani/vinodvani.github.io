@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: layouts/about/
 ---
 
 We are managing this blog post to upload the message of **Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur**.
