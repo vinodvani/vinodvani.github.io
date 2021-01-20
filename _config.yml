@@ -44,10 +44,10 @@ defaults:
     scope:
       path: "upadeshamrit"
       type: "posts"
-      values:
-        layout: "post"
-        categories: "upadeshamrit"
-        author: "Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur"
+    values:
+      layout: "post"
+      categories: "upadeshamrit"
+      author: "Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur"
 
 include:
    - _pages
