@@ -46,7 +46,8 @@ defaults:
       type: "posts"
       values:
         layout: "post"
-        
+        categories: "life_stories"
+
 include:
    - _pages
 
