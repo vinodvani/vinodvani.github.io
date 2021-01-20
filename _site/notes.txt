@@ -1,0 +1,8 @@
+defaults:
+  -
+    scope:
+      path: "upadeshamrit"
+    values:
+      layout: "post"
+  categories: "upadeshamrit"
+      author: <h1>"Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur"</h>
