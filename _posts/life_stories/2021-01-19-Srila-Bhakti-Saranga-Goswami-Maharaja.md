@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: life_stories
 title:  "Srila Bhakti Saranga Goswami Maharaja"
 date:   2021-01-19 21:49:43 -0500
 categories: life_stories

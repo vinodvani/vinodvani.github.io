@@ -95,9 +95,10 @@
 
             <p class="card-text text-center">
                 <h2> {{ page.title }} </h2>
-<h6 style="color:Red;"> Author: {{ page.author }} </h6>
 
 <h2> {{ layout.title }} </h2>
+<hr>
+<br>
                     {{ content }}
                 
             </p>
@@ -120,7 +121,7 @@
     <ul class="list-group list-group-flush">
       
         <li class="list-group-item">
-          {% for post in site.categories.upadeshamrit %} 
+          {% for post in site.categories.life_stories %} 
             <li class="list-group-item">  Category: {{ page.categories }}
           &raquo;
           <a class="card-link" href="{{ post.url }}"> {{ post.title }}</a>
