@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Srila Bhakti Kusum Sraman Goswami Maharaja"
+title:  "Srila-Bhakti-Saranga-Goswami-Maharaja"
 date:   2021-01-19 20:49:43 -0500
 categories: life_stories
 toc: false
