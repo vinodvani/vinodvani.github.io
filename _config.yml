@@ -39,6 +39,14 @@ plugins:
    - jekyll-sitemap
    - jekyll-seo-tag
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+      values:
+        layout: "post"
+        
 include:
    - _pages
 
