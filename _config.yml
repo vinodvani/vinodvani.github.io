@@ -39,14 +39,7 @@ plugins:
    - jekyll-sitemap
    - jekyll-seo-tag
 
-defaults:
-  -
-    scope:
-      path: "upadeshamrit"
-    values:
-      layout: "post"
-  categories: "upadeshamrit"
-      author: "Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur"
+
 
 include:
    - _pages
