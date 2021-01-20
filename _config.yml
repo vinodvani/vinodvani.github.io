@@ -43,7 +43,6 @@ defaults:
   -
     scope:
       path: "upadeshamrit"
-      type: "posts"
     values:
       layout: "post"
   categories: "upadeshamrit"
