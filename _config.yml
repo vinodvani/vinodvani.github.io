@@ -42,11 +42,12 @@ plugins:
 defaults:
   -
     scope:
-      path: ""
+      path: "upadeshamrit"
       type: "posts"
       values:
         layout: "post"
-        categories: "life_stories"
+        categories: "upadeshamrit"
+        author: "upadeshamrit"
 
 include:
    - _pages
