@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Srila-Bhakti-Saranga-Goswami-Maharaja"
-date:   2021-01-19 20:49:43 -0500
+title:  "Srila Bhakti Saranga Goswami Maharaja"
+date:   2021-01-19 21:49:43 -0500
 categories: life_stories
 toc: false
 permalink: /:categories/Srila-Bhakti-Saranga-Goswami-Maharaja
