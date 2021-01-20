@@ -42,12 +42,12 @@ plugins:
 defaults:
   -
     scope:
-      path: "upadeshamrit"
+      path: "/upadeshamrit"
       type: "posts"
       values:
         layout: "post"
         categories: "upadeshamrit"
-        author: "upadeshamrit"
+        author: "Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur"
 
 include:
    - _pages
