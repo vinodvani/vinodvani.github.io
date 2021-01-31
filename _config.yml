@@ -22,9 +22,9 @@ title: "Vinod Vani"
 email: vinodvani1008@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are managing this blog post to upload the message of Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur.
-  And also will be adding life stories of Gaudiya Vaishnavs.
+  And also will be adding life stories of Gaudiya Vaishnavs. Vinod Vani is the message of Srila Bhakti Vinode Thakur
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.vinodvani.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: thecyberian_
 #github_username:  nescodey
 
