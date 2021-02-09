@@ -20,5 +20,6 @@ permalink: /:categories/from-where-freedom-has-come
 
 ![page1.PNG](/img/page1.PNG " Testinga") 
 
-
+<br>
+<img src="img/page1.PNG" width=612 height=792>
 
