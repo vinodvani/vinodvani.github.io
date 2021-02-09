@@ -20,3 +20,5 @@ permalink: /:categories/from-where-freedom-has-come
 
 ![page1.PNG](/img/page1.PNG " Testinga") 
 
+
+
