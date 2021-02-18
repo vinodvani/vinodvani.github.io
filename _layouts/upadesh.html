@@ -176,7 +176,18 @@
       
     </ul>
 
-  
+    <ul class="list-group list-group-flush">
+      
+        <li class="list-group-item">
+          {% for post in site.categories.upadeshamrit %} 
+            <li class="list-group-item">  Category: {{ page.categories }}
+          &raquo;
+          <a class="card-link" href="{{ post.url }}"> {{ post.title }}</a>
+        </li>
+            
+          {% endfor %}
+      
+    </ul>
 </div>
 
   </div>
